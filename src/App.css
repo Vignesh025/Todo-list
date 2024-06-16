@@ -6,7 +6,7 @@
   width: 80rem;
   border: 1px solid black;
   min-height: 50rem;
-  background-color: lightgray;
+  background-color: lightgoldenrodyellow;
   border-radius: 1rem;
 }
 
@@ -75,4 +75,8 @@
 
 .hide{
   display: none;
+}
+
+body{
+  background-image: url("https://w0.peakpx.com/wallpaper/554/543/HD-wallpaper-colorful-abstract-pattern-creative-colorful-lines-linear-patterns-abstract-patterns-abstract-backgrounds.jpg");
 }
